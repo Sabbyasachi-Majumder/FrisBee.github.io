@@ -53,10 +53,14 @@ nav a{
 }
 a{
 	color: #17202A;
-    background-color: #a6a6a6;
-    text-align: center;
-    text-decoration: none;
+	text-align: center;
 }
+a:hover{
+	text-decoration: none;
+	border: solid;
+	border-color: #80DEEA;
+}
+
 img{
 	border: solid;
 	border-width: 5px;
